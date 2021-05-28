@@ -1,0 +1,5 @@
+Öffentliche Slots in Minecraft:
+  ?
+
+Gesamter Arbeitsspeicher der Minecraft-Server:
+  6 GB: 2021/05/28
