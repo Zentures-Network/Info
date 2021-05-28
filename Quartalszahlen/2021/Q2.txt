@@ -2,7 +2,7 @@ Kapital:
   Netzwerk: 00,00€
   Privatinvestition: 05,94€
   
-  Geasamt: 05,94€
+  Gesamt: 05,94€
 
 Einnahmen:
   Keine Einnahmequellen -> 0€
