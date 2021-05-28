@@ -1,0 +1,5 @@
+Rang:
+  Name | Im Team seit | Aufgabe
+
+Administration:
+  MCLP2005 | Sommer 2019 (Genaues Datum nicht bekannt) | Leitung
