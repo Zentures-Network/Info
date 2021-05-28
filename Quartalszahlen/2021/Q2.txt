@@ -1,0 +1,22 @@
+Kapital:
+  Netzwerk: 00,00€
+  Privatinvestition: 05,94€
+  
+  Geasamt: 05,94€
+
+Einnahmen:
+  Keine Einnahmequellen -> 0€
+  
+  Gesamt: 00,00€
+
+Ausgaben:
+  VServer: 05,94€
+  Team: 00,00€ -> Keine Teammitglieder oder freiwillig
+  
+  Gesamt: 05,94€
+
+Gewinn:
+  K 05,94€
+  + 00,00€
+  - 05,94€
+  = 00,00€
