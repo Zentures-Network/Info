@@ -4,10 +4,5 @@ Rang:
 Administration:
   MCLP2005 | Sommer 2019 (Genaues Datum nicht bekannt) | Leitung
 
-Development:
-  Web:
-  MC:
-    hopesless | 2021/05/29 | Serverinstandhaltung im Bereich der Plugins
-
 Test-Support:
   Manfusel | 2021/05/29 | Betreuung von Spielern auf dem Discord- und Minecraft-Server
